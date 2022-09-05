@@ -14,7 +14,7 @@ html {
   transform: scale(1.2);
 }
 .gallery-container {
-  border: 5px solid black;
+  
   display: grid;
   grid-template-columns: repeat(4,1fr);
   grid-template-rows: repeat(4,25vh);
@@ -46,7 +46,7 @@ html {
   display:block;
   height: 100%;
   width: 100%;
-  background-color: black;
+  background-color: rgb(255, 255, 255);
   opacity: 0.6;
   position: absolute;
   top: 100%;
